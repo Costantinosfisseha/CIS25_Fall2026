@@ -1,2 +1,35 @@
 #Library Management System
+#Scope of Work: Library Management System (C++ Project)
+    Introduction
+    For this project, I’m building a Library Management System using C++. 
+    The goal is to create a simple but functional system that helps manage books, users, and borrowing activity. 
+    I want to focus on practical features that reflect how real libraries operate while improving my skills in object-oriented programming, file handling, and system design.
+#Purpose
+      The system will allow librarians (or users) to:
+      Add and remove books from the catalog
+      Search for books by title or author
+      Register users and track who borrowed what
+      Record borrowing and returning of books
+      View reports of available books and borrowing history
+#Scope
+        Book Management: Add, delete, update book records (title, author, ISBN, quantity)
+        User Management: Register users with basic info (name, ID)
+        Borrowing System: Track which user borrowed which book and when
+        Return System: Update records when books are returned
+        File Storage: Use text files to save and load data (books, users, transactions)
+#Tools and Technologies
+        Language: C++
+        Development Tools: VS Code, GitHub
+#Goal
+        Build a working system that handles basic library operations
+        Practice using classes, file handling, and modular code in C++
+        Create something I can show in my portfolio or improve later
+#What problem does it solve
+        Organize book records efficiently
+        Track borrowing and returning with timestamps
+        Store user information and borrowing history
+        Prevent data loss by saving everything to files
+        Make library operations faster, more accurate, and easier to manage
+
+
 
