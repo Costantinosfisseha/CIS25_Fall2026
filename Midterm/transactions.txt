@@ -1,0 +1,6 @@
+Deposit:  of $ 40 Current balance: $50
+Purchase:  of $ 1 Current balance: $49
+Deposit:  of $ 40 Current balance: $50
+Purchase:  of $ 5 Current balance: $45
+Deposit:  of $ 100 Current balance: $110
+Purchase:  of $ 51 Current balance: $59
